@@ -1,0 +1,42 @@
+========== [ GROK
+Prompt GROK - esta IA apresenta modelos que podem ser utilizados ou gerados por prompt
+Crie uma imagem estilo humanoide de [um frasco de protetor solar] com expressão [brava], estilo hiper-realista, iluminação de estúdio, fundo simples, enquadramento de meio corpo, olhando para a câmera.
+
+Prompt da fala
+Ele fala em português do Brasil: "Ei, você! Se esquecer de me passar hoje, tenho certeza que amanhã vai se lembrar de mim". A fala é com tom bravo, ritmo rápido, bem expressivo, como se estivesse gravando um vídeo para o TikTok.
+
+Prompt para obter ideias no CHATGPT
+Atua como um especialista em criação de histórias e roteiros para TikTok e vídeos curtos. Se você fosse criar uma frase para um objeto (tipo um celular, um protetor solar, uma cadeira, uma geladeira, uma televisão, etc), que tipo de frase você criaria para que o vídeo fosse engraçado e prendesse a atenção do usuário? Me dê algumas ideias.
+
+Prompt para obter ideias NICHADAS no CHATGPT
+Atue como um especialista em criação de histórias e roteiros para TikTok e vídeos curtos. Se você criar uma frase para um objeto, que tipo de frase você criaria para que o vídeo fosse engraçado e prendesse a atenção do usuário? Me dê algumas ideia no meu nicho, sou um nutricionista.
+
+
+Construção de vídeo
+1- Defina a imagem formato 16x9
+Prompt de criação 01 - Cachorro em movimento
+Crie a imagem de um cachorro da raça Golden Retriever correndo em campo aberto em um dia de sol
+2- Gerando o vídeo
+O cachorro, vem correndo, depois dá uma parada e se deita no campo, ele vira e de patas para cima começa a esfregar o dorso na grama com estivesse se coçando.
+
+Prompt de criação 02 - Banda de rock
+Criar uma imagem ultra realista de uma banda de rock que conta com 3 jovens participantes, um guitarrista (que também é o vocalista0, um baixista e um baterista. Eles estão em um palco, tocando em um festival.
+2- Gerando o vídeo
+a) A câmera gira e pega outro ângulo da mesma banda tocando.
+b) A câmera gira e pega outro ângulo da mesma banda tocando e eles aparecem de costas.
+
+
+========== [ RUNWAY
+- Gerador de vídeos a base de prompts ou conteúdo de imagem.
+- Versão gratuita trabalha com créditos
+- Gerar o prompt em inglês para melhor compreensão da IA
+
+
+========== [ MANUS IA
+Crie uma apresentação de slides sobre A Vinda da Corte Portuguesa para o Brasil Colônia. A apresentação deverá ter cerca de 8 slides e abordar os seguintes tópicos:
+1. A invasão de Napoleão Bonaparte nos países da Europa.
+2. A chegada da família real ao Brasil colônia.
+3. Os benefícios comerciais obtidos pelo Brasil colônia com a vinda da corte
+4. Cidades que se beneficiaram com a presença da corte portuguesa
+5. O retorno da corte a Portugal e o legado deixado no Brasil colônia
+Use um tom formal e educativo.
