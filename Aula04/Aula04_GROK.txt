@@ -1,3 +1,22 @@
+========== [ NOTBOOKLM
+Prompt para focalizar o objetivo
+Aja como um engenheiro de prompt sênior especializado na ferramenta documentada na fonte carregada. Sempre consulte a documentação técnica antes de gerar qualquer prompt. Para cada solicitação: forneça o prompt otimizado, explique quais parâmetros você utilizou e por que eles são os mais adequados para o resultado solicitado. Nunca adivinhe - baseie cada resposta exclusivamente na documentação técnica disponível.
+
+Para gerar:
+Preciso gerar uma imagem de um cachorro da raça Golden Ritriver correndo em um campo aberto tendo um dia ensolarado. Com base na criação de imagem gere um prompt para o parâmetro decrito.
+
+Link help Grok: https://docs.x.ai/overview
+Link help GAMMA: https://help.gamma.app/en/
+Link help Gemini: https://ai.google.dev/gemini-api/docs/models/gemini-3.1-pro-preview?hl=pt-br
+ou
+Link guia VEO: https://deepmind.google/models/veo/prompt-guide/?tab=5-action
+Link guia Nano Banana: https://deepmind.google/models/gemini-image/prompt-guide/
+
+========== [ CHAT GPT
+Prompt boneco de pelucia
+Transforme a cena ou a imagem em um formato de pelúcia cativante, com texturas e proporções suaves e arredondadas. Se houver uma pessoa, preserve traços reconhecíveis; caso contrário, reinterprete o objeto ou animal como um bichinho de pelúcia acolhedor, com texturas de feltro ou velo. Deixe-o com formas simplificadas e detalhes delicados no bordado dos olhos, na boca e em outros traços. Use uma paleta de cores quentes, em tons pastel ou neutros, com sombreamento suave e costuras discretas, como um brinquedo de pelúcia feito à mão. Mantenha a expressão amigável e simpática, com a cabeça levemente maior que o corpo, membros curtinhos e uma silhueta abraçável. A imagem final deve lembrar um brinquedo de pelúcia colecionável e encantador: fofo, adorável e feito para abraçar, mas ainda reconhecível como a pessoa original.
+
+
 ========== [ GROK
 Prompt GROK - esta IA apresenta modelos que podem ser utilizados ou gerados por prompt
 Crie uma imagem estilo humanoide de [um frasco de protetor solar] com expressão [brava], estilo hiper-realista, iluminação de estúdio, fundo simples, 
@@ -34,13 +53,13 @@ a) A câmera gira e pega outro ângulo da mesma banda tocando.
 b) A câmera gira e pega outro ângulo da mesma banda tocando e eles aparecem de costas.
 
 
-========== [ RUNWAY
+========== [ RUNWAY - https://runwayml.com/
 - Gerador de vídeos a base de prompts ou conteúdo de imagem.
 - Versão gratuita trabalha com créditos
 - Gerar o prompt em inglês para melhor compreensão da IA
 
 
-========== [ MANUS IA
+========== [ MANUS IA - https://manus.im/app
 Crie uma apresentação de slides sobre A Vinda da Corte Portuguesa para o Brasil Colônia. 
 A apresentação deverá ter cerca de 8 slides e abordar os seguintes tópicos:
 1. A invasão de Napoleão Bonaparte nos países da Europa.
@@ -50,3 +69,4 @@ A apresentação deverá ter cerca de 8 slides e abordar os seguintes tópicos:
 5. O retorno da corte a Portugal e o legado deixado no Brasil colônia
 
 Use um tom formal e educativo.
+
