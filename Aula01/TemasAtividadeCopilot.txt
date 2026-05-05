@@ -12,13 +12,12 @@ Expectativa → como a resposta deve vir
 
 ============ [ATIVIDADE 1] ============
 
-🟢 NÍVEL INICIANTE (simples e guiado)
-
+🟢 NÍVEL INICIANTE 
 comando(prompt)
 
 Crie uma história interativa onde eu possa tomar decisões.
 A história se passa em uma escola.
-Deve ter duas opções de escolha (A e B).
+duas opções de escolha (A e B).
 Use linguagem simples.
 Comece a história e pare na primeira decisão.
 
@@ -47,44 +46,6 @@ Expectativa: A história deve ter etapas com duas opções (A e B), mostrando co
 
 
 
-🔴 NÍVEL AVANÇADO (Exemplo de Prompt Completo (refinado))
-
-comando(prompt)
-
-Objetivo: Criar uma história interativa imersiva onde as decisões impactam diretamente o futuro do personagem
-
-Contexto: Um jovem de 18 anos está prestes a sair da escola e enfrenta dúvidas entre trabalhar, estudar ou empreender, lidando com pressão familiar e insegurança pessoal
-
-Fonte: Inspirado em histórias reais, com narrativa emocional e estilo de storytelling moderno
-
-Expectativa:
-A história deve ser dividida em etapas
-Cada etapa deve apresentar 2 escolhas com consequências diferentes
-As decisões devem influenciar o rumo da história de forma perceptível
-Usar linguagem envolvente e próxima da realidade do aluno
-Incluir emoção e conflito nas situações
-Finalizar cada etapa com uma pergunta direta ao usuário
-Começar a história e parar na primeira decisão
-
-
-outro comando(prompt)
-🎮 NÍVEL AVANÇADO (Exemplo de Prompt Completo (refinado))
-
-Objetivo: Criar uma história interativa onde o usuário toma decisões que afetam o rumo da narrativa.
-
-Contexto: A história se passa em um mundo pós-apocalíptico onde a tecnologia falhou e pequenos grupos de sobreviventes disputam recursos. O personagem principal é um jovem que precisa tomar decisões difíceis para sobreviver.
-
-Fonte: Inspirado em séries como sobrevivência e jogos de escolha, com narrativa envolvente e foco em consequências das decisões.
-
-Expectativa: A história deve ser dividida em etapas. Em cada etapa, apresentar 2 opções de decisão (A e B), com consequências diferentes. A linguagem deve ser simples, envolvente e adequada para iniciantes. Comece a história e pare na primeira decisão aguardando minha escolha.
-
-
-💡 O que devemos observar:
-- Muito mais imersão e realismo?
-- A IA começa a “parecer inteligente de verdade”?
-- Agora parece mais real?
-
-
 ============ [ATIVIDADE 2] ============
 
 
@@ -103,11 +64,8 @@ Com base nos 4 pilares que são objetivo, contexto, fonte e Expectativa elabore 
 
 
 Objetivo: Criar uma resposta para atendimento ao cliente
-
 Contexto: (descrever a situação escolhida)
-
 Fonte: Comunicação profissional / atendimento humanizado
-
 Expectativa: Resposta clara, educada e adequada ao cliente
 
 
@@ -133,7 +91,7 @@ Mais direto
 
 
 
-============ [ATIVIDADE 3] ============
+============ [ATIVIDADE 2] ============
 
 
 🎯 Situação da atividade: Entrevista de Emprego
@@ -149,13 +107,9 @@ Você deverá escolhe um dos cenários abaixo:
 ✍️ Parte 1 – Construção do Prompt (4 pilares)
 
 Com base nos 4 pilares que são objetivo, contexto, fonte e Expectativa elabore a criação de seu prompt, tenha como base para pensamento o roteiro abaixo:
-
 Objetivo: Simular uma entrevista de emprego
-
 Contexto: Vaga de atendimento ao cliente para primeiro emprego em uma empresa de varejo
-
 Fonte: Entrevistas reais de RH e processos seletivos
-
 Expectativa: O entrevistador deve fazer perguntas uma por vez, aguardar minha resposta e simular um ambiente real de entrevista com linguagem profissional
 
 
