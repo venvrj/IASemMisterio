@@ -91,7 +91,7 @@ Mais direto
 
 
 
-============ [ATIVIDADE 2] ============
+============ [ATIVIDADE 3] ============
 
 
 🎯 Situação da atividade: Entrevista de Emprego
@@ -119,7 +119,6 @@ Expectativa: O entrevistador deve fazer perguntas uma por vez, aguardar minha re
 
 
 🔄 Parte 3 – Feedback inteligente 
-
 Depois das respostas solicite ao COPILOT para:
 
 “Avalie minhas respostas considerando:
@@ -134,11 +133,9 @@ e sugira melhorias práticas.”
 🔁 Parte 4 – Refinamento
 
 Agora peça ao COPILOT para:
-
 “Reescreva minha resposta de forma mais profissional e convincente”
 
 🔍 Parte 5 – Análise crítica
-
 Agora analise e responda:
 
 - Sua resposta inicial estava boa?
